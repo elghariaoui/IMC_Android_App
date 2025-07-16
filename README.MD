@@ -26,31 +26,31 @@ Une application Android simple pour calculer l'Indice de Masse Corporelle (IMC) 
 
 *Description : L'utilisateur saisit son poids et sa taille.*
 
-![Écran de saisie](captures/Capture_accueil.png)
+![Écran de saisie](./captures/Capture_accueil.png)
 
 ### Résultat IMC Normal
 
 *Description : Exemple de résultat pour un IMC dans la catégorie "Normal".*
 
-![Résultat Normal](captures/Capture_imc_normal.png)
+![Résultat Normal](./captures/Capture_imc_normal.png)
 
 ### Résultat IMC Surpoids
 
 *Description : Exemple de résultat pour un IMC dans la catégorie "Surpoids".*
 
-![Résultat Surpoids](captures/Capture_imc_surpoids.png)
+![Résultat Surpoids](./captures/Capture_imc_surpoids.png)
 
 ### Résultat IMC Obésité modéré
 
 *Description : Exemple de résultat pour une des catégories "Obésité modérée".*
 
-![Résultat Obésité_moderee](captures/Capture_imc_obesite_moderee.png)
+![Résultat Obésité_moderee](./captures/Capture_imc_obesite_moderee.png)
 
 ### Résultat IMC Obésité sévère
 
 *Description : Exemple de résultat pour une des catégories "Obésité sévère".*
 
-![Résultat Obésité_severe](captures/Capture_imc_obesite_severe.png)
+![Résultat Obésité_severe](./captures/Capture_imc_obesite_severe.png)
 
 
 ## Technologies utilisées
